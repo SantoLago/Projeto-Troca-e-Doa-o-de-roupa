@@ -1,2 +1,2 @@
-# Projeto-Troca-e-Doa-o-de-roupa
+# Projeto-Troca-e-Doação-de-roupa
 Projeto de Microinformática de Kauê Santiago e Tom Herbit
